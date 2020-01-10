@@ -1,0 +1,18 @@
+{
+    "name": "paperstreetmedia/auth",
+    "description": "Authentication Package for our Nats API compatible with laravel 5.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "paperray",
+            "email": "paperraytanute@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+     "autoload": {
+        "psr-4": {
+            "Paperstreetmedia\\Auth\\": "src/"
+        }
+    }
+}
